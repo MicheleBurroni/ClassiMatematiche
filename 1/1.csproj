@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\burro\OneDrive\Desktop\inf\ClassiMatematiche.cs" Link="ClassiMatematiche.cs" />
+    <Compile Include="C:\Users\burro\OneDrive\Desktop\inf\tanti es.cs" Link="tanti es.cs" />
+  </ItemGroup>
+
+</Project>
